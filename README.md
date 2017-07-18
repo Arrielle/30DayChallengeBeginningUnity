@@ -4,7 +4,7 @@ For this 30 Day GitHub challenge I will be trying to learn Unity and C#. I will 
 
 ## Day 1
 
-Prepare the Unity Environment 
-Introduce Unity's Documentation 
-My First C# Script
-Preparing Unity Environment for GitHub
+Prepare the Unity Environment <br />
+Introduce Unity's Documentation <br />
+My First C# Script <br />
+Preparing Unity Environment for GitHub <br />
