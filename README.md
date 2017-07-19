@@ -8,3 +8,9 @@ Prepare the Unity Environment <br />
 Introduce Unity's Documentation <br />
 My First C# Script <br />
 Preparing Unity Environment for GitHub <br />
+
+## Day 2
+
+My First C# Variable <br />
+My First C# Function <br />
+Made a Scene in Unity and Applied the Script <br /> 
