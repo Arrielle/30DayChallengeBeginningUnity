@@ -9,6 +9,7 @@ public class LearningScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.Log (number1);
+		Debug.Log (number2);
 	}
 
 	// Update is called once per frame
