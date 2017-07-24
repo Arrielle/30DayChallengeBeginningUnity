@@ -23,6 +23,14 @@ Playing with 'methods'<br/>
 
 Forgot to commit. 
 
-##Day 5
+## Day 5
+
+Break
+
+## Day 6
+
+Break
+
+## Day 7
 
 --<br/>
