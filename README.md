@@ -19,18 +19,5 @@ Made a Scene in Unity and Applied the Script <br />
 
 Playing with 'methods'<br/>
 
-## Day 4
-
-Forgot to commit. 
-
-## Day 5
-
-Break
-
-## Day 6
-
-Break
-
-## Day 7
 
 --<br/>
