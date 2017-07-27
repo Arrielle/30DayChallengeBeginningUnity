@@ -17,7 +17,7 @@ Made a Scene in Unity and Applied the Script <br />
 
 ## Day 3 
 
-Playing with 'methods'<br/>
+Playing with 'methods '<br/>
 
 
 --<br/>
