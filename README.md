@@ -11,4 +11,4 @@ Preparing Unity Environment for GitHub <br />
 My First C# Variable <br />
 My First C# Function <br />
 Made a Scene in Unity and Applied the Script <br /> 
-Playing with 'methods '<br/>
+Playing with 'methods'<br/>
