@@ -12,3 +12,5 @@ My First C# Variable <br />
 My First C# Function <br />
 Made a Scene in Unity and Applied the Script <br /> 
 Playing with 'methods'<br/>
+
+## Chapter 2
